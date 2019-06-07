@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseApp</string>
+    <string name="write_to_local_file">Write to local file</string>
+    <string name="read_local_files">Read local files</string>
+    <string name="read_external">Read External</string>
+    <string name="insert_into_database">Insert into database</string>
+    <string name="read_all_courses">Read All Courses</string>
+    <string name="search_in_database">Search in Database</string>
+</resources>
